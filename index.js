@@ -10,3 +10,5 @@ var yes = confitm("Are you sure");
 if (!yes) {
 	windows.close();
 };
+
+alert("Das ist noch ein Eintrag");
